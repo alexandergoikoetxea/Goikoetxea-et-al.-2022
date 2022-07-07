@@ -1,6 +1,6 @@
-# Goikoetxea-et-al.-2022
+# Goikoetxea et al., 2022
 
-# Code used during RIA analyses
+## Code used during RIA analyses
 
 install.packages("Rmisc")
 install.packages("ggplot2")
